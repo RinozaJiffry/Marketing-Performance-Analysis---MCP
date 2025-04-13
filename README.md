@@ -52,13 +52,16 @@ Responses vary by role:
 ```bash
 git clone https://github.com/RinozaJiffry/Marketing-Performance-Analysis---MCP.git
 cd Marketing-Performance-Analysis---MCP
+````
 
 ### 2. Install Dependencies
 
 ```bash
 npm install
+````
 
 ### 3. Run the Server
 
 ```bash
 npm run dev
+````
