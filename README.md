@@ -37,7 +37,7 @@ Responses vary by role:
 
 ## 🏗️ Tech Stack
 
-- **Node.js** (Backend)
+- **Node.js/Exprees** (Backend)
 - **OpenAI API / LLM integration** (Simulated)
 - **JWT** for role-based identity
 - **Role-based Filtering Middleware**
