@@ -1,5 +1,3 @@
-# Marketing-Performance-Analysis---MCP
-
 # 📊 Marketing Performance Analysis — Model Context Protocol (MCP)
 
 Welcome to the **Marketing Performance Analysis - MCP** project!  
@@ -39,7 +37,7 @@ Responses vary by role:
 
 ## 🏗️ Tech Stack
 
-- **Node.js / Express** (Backend)
+- **Node.js** (Backend)
 - **OpenAI API / LLM integration** (Simulated)
 - **JWT** for role-based identity
 - **Role-based Filtering Middleware**
@@ -54,3 +52,13 @@ Responses vary by role:
 ```bash
 git clone https://github.com/RinozaJiffry/Marketing-Performance-Analysis---MCP.git
 cd Marketing-Performance-Analysis---MCP
+
+### 2. Install Dependencies
+
+```bash
+npm install
+
+### 3. Run the Server
+
+```bash
+npm run dev
